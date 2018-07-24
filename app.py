@@ -2,8 +2,8 @@ from flask import Flask
 from flask import request
 
 #WA[
-from whatsapp import Client
-expected_token = 'TESTTOKEN'
+# from whatsapp import Client
+# expected_token = 'TESTTOKEN'
 #]WA
 
 app = Flask(__name__)
